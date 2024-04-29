@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Rebel574](github.com/Rebel574)
 
-- 📫 How to reach me **rohitnagtilak.scoe.gmail.com**
+- 📫 How to reach me **rohitnagtilak.scoe.comp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
