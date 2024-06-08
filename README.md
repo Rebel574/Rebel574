@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Nagtilak</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rebel574&label=Profile%20views&color=0e75b6&style=flat" alt="rebel574" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Rebel574&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [Messaging App](https://github.com/Rebel574/Messaging-App-Nextjs-.git)
 
